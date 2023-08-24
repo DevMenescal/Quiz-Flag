@@ -41,34 +41,6 @@ function cena:create( event )
        -- Barra carregada = x*0.8
        -- Barra vazia = 0
 
-
-   
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 end
 
 cena:addEventListener("create", cena)
