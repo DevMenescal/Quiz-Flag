@@ -31,8 +31,8 @@ Um jogo de quiz sobre os países, onde terão 3 possíveis respostas.
 (  ) Criar a cena de jogo.
 ( x ) Criar a cena do menu.
 (  ) Criar a cena do tutorial.
-(  ) Criar o sistema de perguntas.
-(  ) Criar o sistema de tempo.
+( x ) Criar o sistema de perguntas.
+( x ) Criar o sistema de tempo.
 (  ) Adicionar as fontes personalizadas.
 (  ) Adicionar os efeitos sonoros.
 (  ) Transformar o nosso projeto em APK.

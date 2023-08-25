@@ -38,7 +38,8 @@ function cena:create( event )
 
     local textoCreditos = display.newText( cenaMenu, "CRÉDITOS", botaoCreditos.x, botaoCreditos.y, nil, 100)
 
-    -- Criação da Função Verifica toque.
+    -- CRIAÇÃO DA FUNÇÃO VERIFICA TOQUE
+    
     function verificaToque( event )
         if event.phase == "began" then
             if event.target == botaoJogar then
